@@ -5,15 +5,25 @@ In this week challenge #1, as a beginner web developer I was tasked to refactor 
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
+
 WHEN I view the source code
+
 THEN I find semantic HTML elements
+
 WHEN I view the structure of the HTML elements
+
 THEN I find that the elements follow a logical structure independent of styling and positioning
+
 WHEN I view the icon and image elements
+
 THEN I find accessible alt attributes
+
 WHEN I view the heading attributes
+
 THEN they fall in sequential order
+
 WHEN I view the title element
+
 THEN I find a concise, descriptive title
 
 ## Technologies
@@ -24,9 +34,6 @@ The technologies I used in this challenge includes:
 4. Giblab: Giblab was used to clone the project to out laptop.
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 To install the challenge #1 project, create a new repository on your GitHub account and clone it to your computer.
 
 ## Deployment
@@ -39,19 +46,13 @@ To install the challenge #1 project, create a new repository on your GitHub acco
 4. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
 ## Screenshot
+    ![Horiseon | Digital Marketing Services](./assets/images/Horiseon_screenshot.jpeg)
+    
 
+## Sources
+[W3schools_Semantic Elements in HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[MDN web docs_Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 ## License
 
