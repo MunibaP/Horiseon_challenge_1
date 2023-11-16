@@ -1,7 +1,7 @@
 # Horiseon_challenge_1
 
 ## Description
-In this week challenge #1, as a beginner web developer I was tasked to refactor the codebase that follows accessibility standards to enable accessibility for anyone. Nowadays, accessibility has been one of the top consideration for various industries because it ensures people with disabilities can easily access the website using assistive technologies. In addition, accessibility is important for businesses because it allows an easy access to a website, and it helps avoid litigation.
+In this week challenge #1, as a beginner web developer I was tasked to refactor the codebase that follows accessibility standards to enable accessibility for anyone. Nowadays, accessibility has been one of the top consideration for various industries because it ensure people with disabilities can easily access the website using assistive technologies. In addition, accessibility is important for businesses because it allows an easy access to a website, and it helps avoid litigation.
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
@@ -31,7 +31,7 @@ The technologies I used in this challenge includes:
 1. HTML: template HTML was given to refactor the codebase of a Marketing Agency website called Horiseon.
 2. CSS: template CSS was given to make necessary changes.
 3. Github: Gibhub was used to create a repository which includes the links to the projects, assets folder, and the README file.
-4. Giblab: Giblab was used to clone the project to out laptop.
+4. Giblab: Giblab was used to clone the project to our laptop.
 
 ## Installation
 To install the challenge #1 project, create a new repository on your GitHub account and clone it to your computer.
@@ -47,10 +47,10 @@ To install the challenge #1 project, create a new repository on your GitHub acco
 
 ## Screenshot
 
-    ![Horiseon | Digital Marketing Services](/assets/images/Horiseon_screenshot.png)
+   ![Horiseon | Digital Marketing Services](assets/images/Horiseon_screenshot.png)
     
 
-## Sources
+## Resources
 [W3schools_Semantic Elements in HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 [MDN web docs_Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
