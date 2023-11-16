@@ -46,7 +46,8 @@ To install the challenge #1 project, create a new repository on your GitHub acco
 4. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
 ## Screenshot
-    ![Horiseon | Digital Marketing Services](./assets/images/Horiseon_screenshot.jpeg)
+
+    ![Horiseon | Digital Marketing Services](/assets/images/Horiseon_screenshot.png)
     
 
 ## Sources
