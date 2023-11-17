@@ -63,7 +63,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 [GitHub Repository link](https://github.com/MunibaP/Horiseon_challenge_1.git)
 
-[Deployment link](https://github.com/MunibaP/Horiseon_challenge_1.git)
+[Deployment link](https://munibap.github.io/Horiseon_challenge_1/)
 
 ## License
 
