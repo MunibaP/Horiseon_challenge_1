@@ -34,16 +34,20 @@ The technologies I used in this challenge includes:
 4. Giblab: Giblab was used to clone the project to our laptop.
 
 ## Installation
-To install the challenge #1 project, create a new repository on your GitHub account and clone it to your computer.
+
+To install the challenge #1 project, first create a new repository in your GitHub account, and then clone this repository to your local computer.
+
+To clone: git clone https://github.com/your-username/repository-name.git
 
 ## Deployment
-1. When you're ready to deploy, use the "git add", "git commit", and "git push" commands to save and push your code to your GitHub repository.
 
-2. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+1. Deploy your code by running "git add", "git commit", and "git push" in your local repository.
 
-3. On the Settings page, select Pages on the left side of the page. On the GitHub Pages screen, choose `main` in the dropdown under Branch. Click the Save button.
+2. Visit your GitHub repository online, click 'Settings', and then select 'Pages' on the left.
 
-4. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
+3. In GitHub Pages, set the 'main' branch as the source and click 'Save'.
+
+4. Access your live site at <your-github-username.github.io/your-repository-name>. For example, if your username is "lernantino" and your repo is "css-demo-site", the URL is <lernantino.github.io/css-demo-site>.
 
 ## Screenshot
 
