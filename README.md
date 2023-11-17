@@ -59,6 +59,12 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 [MDN web docs_Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
+## Links
+
+[GitHub Repository link](https://github.com/MunibaP/Horiseon_challenge_1.git)
+
+[Deployment link](https://github.com/MunibaP/Horiseon_challenge_1.git)
+
 ## License
 
 Redistribution of the CVW software or derived works must reproduce MITRE's copyright designation and this License in the documentation and/or other materials provided with the distribution.Copyright © 1994-1999. The MITRE Corporation (http://www.mitre.org/). All Rights Reserved.
